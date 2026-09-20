@@ -76,10 +76,7 @@ Spring 기반 백오피스 서비스를 운영하는 백엔드 엔지니어입�
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=orisjineman&theme=tokyonight&hide_border=true&background=00000000" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=orisjineman&theme=default&hide_border=true&background=00000000" />
-</picture>
+<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=orisjineman&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
