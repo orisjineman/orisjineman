@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=orisjineman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer&descAlign=50&descAlignY=58" alt="header" />
 
 <a href="https://github.com/orisjineman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=560&height=40&lines=Hello%2C+I'm+Oris+%F0%9F%91%8B;Spring-based+backoffice+services;Learning+EDA+%C2%B7+Hexagonal+Architecture;Always+building%2C+always+learning" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=560&height=40&lines=Hello%2C+I'm+Oris+%F0%9F%91%8B;Spring-based+backoffice+services;Learning+EDA+%C2%B7+Hexagonal+Architecture;Building+side+projects+with+TypeScript;Always+building%2C+always+learning" alt="typing intro" />
 </a>
 
 <br>
@@ -32,6 +32,15 @@ Spring 기반 백오피스 서비스를 운영하는 백엔드 엔지니어입�
     </td>
   </tr>
   <tr>
+    <td><b>Fullstack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Database &amp; Messaging</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -53,22 +62,32 @@ Spring 기반 백오피스 서비스를 운영하는 백엔드 엔지니어입�
 
 ## 🚀 Projects
 
+**Side Projects**
+
 | 프로젝트 | 설명 | 스택 |
 | :-- | :-- | :-- |
-| [**orischat**](https://github.com/orisjineman/orischat) | 가족을 위한 메시징 앱 | `JavaScript` |
-| [**save-the-was**](https://github.com/orisjineman/save-the-was) | 실무 장애 경험에서 출발한 WAS 최적화·복구 개선 | `Java` |
-| [**infra-lab**](https://github.com/orisjineman/infra-lab) | 로컬 인프라 구성과 배포 실험실 | `Java` |
-| [**eda-kafka-practice**](https://github.com/orisjineman/eda-kafka-practice) | Kafka로 배우는 Event-Driven Architecture | `Java` `Kafka` |
-| [**hexagonal-practice**](https://github.com/orisjineman/hexagonal-practice) | 헥사고날 아키텍처 설계 학습 | `Java` |
-| [**coding-test-lesson**](https://github.com/orisjineman/coding-test-lesson) | 코딩테스트 알고리즘 연습 | `Python` |
+| [**finance-dashboard**](https://github.com/orisjineman/finance-dashboard) | 흩어진 자산을 한눈에 보고 자산 추이·내 집 마련 계획을 관리하는 개인 재무 대시보드 | `TypeScript` `React` `Express` |
+| [**receipt-app**](https://github.com/orisjineman/receipt-app) | 영수증 사진을 올리면 Upstage AI가 가맹점·금액·날짜·품목을 추출해 지출로 정리해주는 웹 앱 | `TypeScript` `Next.js` `Postgres` |
+| [**orischat**](https://github.com/orisjineman/orischat) | 가족과 함께 쓰려고 만든 채팅 앱 | `JavaScript` |
+
+**Study &amp; Practice**
+
+| 프로젝트 | 설명 | 스택 |
+| :-- | :-- | :-- |
+| [**eda-kafka-practice**](https://github.com/orisjineman/eda-kafka-practice) | Kafka로 익히는 Event-Driven Architecture | `Java` `Kafka` |
+| [**hexagonal-practice**](https://github.com/orisjineman/hexagonal-practice) | 헥사고날 아키텍처 공부 | `Java` |
+| [**save-the-was**](https://github.com/orisjineman/save-the-was) | 실무에서 WAS가 터졌던 경험을 되살려 WAS를 구하는 개선 여정 | `Java` |
+| [**infra-lab**](https://github.com/orisjineman/infra-lab) | 헬스체크·롤링 배포 등 인프라 작업을 로컬에서 연습 | `Java` |
+| [**coding-test-lesson**](https://github.com/orisjineman/coding-test-lesson) | Claude와 함께하는 코딩테스트 연습 | `Python` |
 
 <br>
 
 ## 🔭 지금 하고 있는 것
 
-- 🔄 **Event-Driven Architecture** 학습 — [`eda-kafka-practice`](https://github.com/orisjineman/eda-kafka-practice)
-- 🏛 **헥사고날 아키텍처** 학습 — [`hexagonal-practice`](https://github.com/orisjineman/hexagonal-practice)
+- 💰 **개인 재무 대시보드** 만들기 — [`finance-dashboard`](https://github.com/orisjineman/finance-dashboard)
 - 🧩 **코딩테스트** 알고리즘 연습 — [`coding-test-lesson`](https://github.com/orisjineman/coding-test-lesson)
+- 🏛 **헥사고날 아키텍처** 학습 — [`hexagonal-practice`](https://github.com/orisjineman/hexagonal-practice)
+- 🔄 **Event-Driven Architecture** 학습 — [`eda-kafka-practice`](https://github.com/orisjineman/eda-kafka-practice)
 
 <br>
 
