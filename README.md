@@ -67,7 +67,6 @@ Spring 기반 백오피스 서비스를 운영하는 백엔드 엔지니어입�
 | 프로젝트 | 설명 | 스택 |
 | :-- | :-- | :-- |
 | [**finance-dashboard**](https://github.com/orisjineman/finance-dashboard) | 흩어진 자산을 한눈에 보고 자산 추이·내 집 마련 계획을 관리하는 개인 재무 대시보드 | `TypeScript` `React` `Express` |
-| [**receipt-app**](https://github.com/orisjineman/receipt-app) | 영수증 사진을 올리면 Upstage AI가 가맹점·금액·날짜·품목을 추출해 지출로 정리해주는 웹 앱 | `TypeScript` `Next.js` `Postgres` |
 | [**orischat**](https://github.com/orisjineman/orischat) | 가족과 함께 쓰려고 만든 채팅 앱 | `JavaScript` |
 
 **Study &amp; Practice**
