@@ -54,7 +54,11 @@ Spring 기반 백오피스 서비스를 운영하며, 장애를 겪으면 원인
     <td width="50%" valign="top">
       <h3><a href="https://github.com/orisjineman/finance-dashboard">💰 finance-dashboard</a></h3>
       <i>"여러 계좌에 흩어진 자산, 내 집 마련까지 얼마나 남았지?"</i><br><br>
-      자산 현황·추이를 한눈에 보고, 리밸런싱·연말정산·내 집 마련 시뮬레이션까지 직접 관리하려고 만든 개인 재무 대시보드
+      자산 현황·추이를 한눈에 보고, 리밸런싱·연말정산·내 집 마련 시뮬레이션까지 직접 관리하려고 만든 개인 재무 대시보드<br><br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/finance-dashboard-dark.png" />
+        <img src="assets/finance-dashboard-light.png" width="100%" alt="finance-dashboard 개요 화면 (데모 데이터)" />
+      </picture>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/orisjineman/orischat">💬 orischat</a></h3>
