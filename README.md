@@ -59,7 +59,11 @@ Spring 기반 백오피스 서비스를 운영하며, 장애를 겪으면 원인
     <td width="50%" valign="top">
       <h3><a href="https://github.com/orisjineman/orischat">💬 orischat</a></h3>
       <i>"가족끼리 편하게 쓸 우리만의 메신저"</i><br><br>
-      설치 없이 브라우저로 바로 쓰는 실시간 채팅. 답장·멘션·리액션·사진·푸시 알림·PWA까지 가족 피드백을 받으며 키워가는 중
+      설치 없이 브라우저로 바로 쓰는 실시간 채팅. 답장·멘션·리액션·사진·푸시 알림·PWA까지 가족 피드백을 받으며 키워가는 중<br><br>
+      <p align="center">
+        <img src="assets/orischat-light.png" width="45%" alt="orischat 라이트 모드" />
+        <img src="assets/orischat-dark.png" width="45%" alt="orischat 다크 모드" />
+      </p>
     </td>
   </tr>
 </table>
