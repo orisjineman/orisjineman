@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f3a5f,100:6DB33F&height=220&section=header&text=Oris&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Backend%20Engineer%20%C2%B7%20Seoul&descSize=18&descAlignY=72" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:6DB33F&height=240&section=header&text=Oris&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Backend%20Engineer%20%C2%B7%20Seoul&descSize=18&descAlignY=58" alt="header" />
 
 <a href="https://github.com/orisjineman">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6DB33F&center=true&vCenter=true&width=600&lines=Spring+%EA%B8%B0%EB%B0%98+%EB%B0%B1%EC%98%A4%ED%94%BC%EC%8A%A4+%EC%84%9C%EB%B9%84%EC%8A%A4+%EC%9A%B4%EC%98%81+%E2%9A%99%EF%B8%8F;Event-Driven+Architecture+%E2%9A%A1;Hexagonal+Architecture+%F0%9F%A7%A9;Always+building%2C+always+learning+%F0%9F%9A%80" alt="typing" />
